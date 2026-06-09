@@ -79,6 +79,6 @@ A **HKTC Do Brasil S/A** é uma *Trading Company* especializada em comércio ext
 
 <div align="center">
 
-Feito por <a href="https://www.linkedin.com/in/luis-galv%C3%A3o/" target="_blank"><b>Luís Galvão</b></a>
+Desenvolvedores: <a href="https://www.linkedin.com/in/luis-galv%C3%A3o/" target="_blank"><b>Luís Galvão</b></a> e <a href="https://www.linkedin.com/in/luigiboscariol/" target="_blank"><b>Luigi Boscariol</b></a>
 
 </div>
